@@ -74,13 +74,13 @@ my-static-site/
 ## 📸 Screenshots (Add Yours)
 
 * **S3 bucket with index.html**
-  ![S3 Bucket Screenshot](S3BucketSetup.png)
+  ![S3 Bucket Screenshot](./docs/screenshots/S3BucketSetup.png)
 
 * **Website Live on CloudFront**
-  ![Website Screenshot](DeployedSite.png)
+  ![Website Screenshot](./docs/screenshots/Cloudfront.png)
 
 * **CodePipeline Successful Run**
-  ![Pipeline Screenshot](CodePipeline.png)
+  ![Pipeline Screenshot](./docs/screenshots/CodePipeline.png)
 
 ---
 
